@@ -1,0 +1,35 @@
+h1 {
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+h2 {
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+.be{
+  padding-top:30px;
+}
+.nes{
+  padding-top:30px;
+}
+div{
+  background-color:#ffdb8b;
+  width:400px;
+  height:100px;
+  text-align:center;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.new{
+  color:#0000FF;
+  border-radius: 10px;
+}
+
+h3{
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+a{
+  margin-top: 100px;
+}
